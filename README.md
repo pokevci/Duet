@@ -1,10 +1,9 @@
-<h1>DUET</h1>
-<h2>Duet is a personalized open-sourced homework doing helper
+<h1>DUET 1.0</h1>
+<h2>Duet 1.0 is a personalized open-sourced homework doing helper
 made using Gemini api. </h2>
 Contributors to project: poke,jace and Enoch.
 <br>
 Discord: https://discord.com/invite/nsFVgHrg
 <br>
 Personal email: poke83490theunknown@gmail.com
-<br>
-vs 1.0
+
