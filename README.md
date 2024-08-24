@@ -6,3 +6,5 @@ Contributors to project: poke,jace and Enoch.
 Discord: https://discord.com/invite/nsFVgHrg
 <br>
 Personal email: poke83490theunknown@gmail.com
+<br>
+vs 1.0
