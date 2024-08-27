@@ -3,28 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chat Interface</title>
+    <title>Duet</title>
     <link rel="stylesheet" href="main.css">
 </head>
 <body>
     <div class="chat-container">
-        <div class="chat-box">
-            <div class="message bot">
-                <div class="avatar">
-                    <img class="duet" src="img/duet.png" alt="duetpng">
-                </div>
-                <div class="text">Hello, what homework can I help you with today?</div>
-            </div>
-            <div class="message user">
-                <div class="avatar">😊</div>
-                <div class="text">I need help with my homework.</div>
-            </div>
-            <!-- Add more chat messages here -->
+        <div class="chat-box" id="chat-box">
+            <!-- Chat messages will appear here -->
         </div>
         <div class="input-box">
-            <input type="text" placeholder="Type a message..." />
-            <button>Send</button>
+            <input type="text" id="user-input" placeholder="Type your message here..." />
+            <button id="send-button">Send</button>
         </div>
     </div>
+    <script src="main.js"></script>
 </body>
 </html>
