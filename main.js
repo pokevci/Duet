@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
         userInput.value = ''; // Clear the input box
 
         // Send user input to Gemini API and get response
-        fetch('http://localhost:3000/api/chat', {
+        fetch('https://arhyel24.github.io/gemini-api-endpoint/api/chat', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
